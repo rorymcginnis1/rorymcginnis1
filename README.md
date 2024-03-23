@@ -18,7 +18,7 @@ I graduated from San Francisco State in December 2023, majoring in Computer Scie
 
 ### Personal Website
 
-You can find my personal website at [rorymcginnis1.github.io](rorymcginnis1.github.io)
+You can find my personal website at [rorymcginnis1.github.io](https://rorymcginnis1.github.io)
 
 ### Work Experience
 
