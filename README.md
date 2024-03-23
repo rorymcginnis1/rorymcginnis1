@@ -1,6 +1,6 @@
 ### Welcome
 
-Personal projects
+### Personal projects
 
 •	Human Pose Estimation: tool that allows real time tracking of an individual from a video/ camera and moves an avatar according to those movements
 
@@ -10,15 +10,17 @@ Personal projects
 
 •	Randomized compliment: Web app that randomizes a compliment for you on the hour every day
 
-Education
+•	Fitness Tracker: Web app tracks your fitness progress overtime
+
+### Education
 
 I graduated from San Francisco State in December 2023, majoring in Computer Science and minoring in mathematics
 
-Personal Website
+### Personal Website
 
-You can find my personal website at rorymcginnis1.github.io
+You can find my personal website at [rorymcginnis1.github.io](rorymcginnis1.github.io)
 
-Work Experience
+### Work Experience
 
 Artificial Intelligence Research Assistant 
 
@@ -37,11 +39,11 @@ Random Forest Classifier Research Assistant
 •	Generated exemplary research outcomes that garnered recognition from Professor Petkovic, leading to the integration of the work into the curriculum of his class 
 
 
-Contact me
+### Contact me
 
 You can reach me at rorymcginnis1@gmail.com
 
-Hobbies
+### Hobbies
 
 In my free time I enjoy playing/watching basketball, taking my dog on walks through the city, and rock climbing
 
