@@ -6,7 +6,7 @@
 
 •	[Mini Youtube](https://github.com/rorymcginnis1/MiniYouTube): Recreated a website that allows many users to upload video and view them, inspired by youtube
 
-•	[Randomized compliment](https://github.com/rorymcginnis1/Hourly-Random-Compliment): Web app that randomizes a compliment for you on the hour every day
+•	[Randomized compliment](https://github.com/rorymcginnis1/Hourly-Random-Compliment): [Web ap (https://rorymcginnis1.github.io/Hourly-Random-Compliment/) that randomizes a compliment for you on the hour every day
 
 
 ### Education
