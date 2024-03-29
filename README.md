@@ -2,15 +2,12 @@
 
 ### Personal projects
 
-•	Human Pose Estimation: tool that allows real time tracking of an individual from a video/ camera and moves an avatar according to those movements
+•	[Human Pose Estimation](https://github.com/rorymcginnis1/HumanPoseEstimation): tool that allows real time tracking of an individual from a video/ camera and moves an avatar according to those movements
 
-•	Mini Youtube: Recreated a website that allows many users to upload video and view them, inspired by youtube
+•	[Mini Youtube](https://github.com/rorymcginnis1/MiniYouTube): Recreated a website that allows many users to upload video and view them, inspired by youtube
 
-•	Basketball Stat Bot: Discord bot that allows individual to check where basketball players rank in all time statistics
+•	[Randomized compliment](https://github.com/rorymcginnis1/Hourly-Random-Compliment): Web app that randomizes a compliment for you on the hour every day
 
-•	Randomized compliment: Web app that randomizes a compliment for you on the hour every day
-
-•	Fitness Tracker: Web app tracks your fitness progress overtime
 
 ### Education
 
