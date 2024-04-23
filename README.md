@@ -24,7 +24,7 @@ You can find my personal website at [rorymcginnis1.github.io](https://rorymcginn
 
 ### Work Experience
 
-Artificial Intelligence Research Assistant 
+## Artificial Intelligence Research Assistant 
 
 •	Established a streamlined pipeline to assess the efficacy of five distinct AI models, namely AlexNet, MobileNet, MnasNet, ShuffleNet, and SqueezeNet 
 
@@ -32,7 +32,7 @@ Artificial Intelligence Research Assistant
 
 •	Leveraged D3.js to craft compelling visualizations, effectively communicating the accuracy outcomes of each model and facilitating nuanced comparisons of their performance metrics
 
-Random Forest Classifier Research Assistant
+## Random Forest Classifier Research Assistant
 
 •	Conducted an in-depth evaluation of model performance utilizing out-of-bag accuracy, confusion matrix analysis, and visualization of feature importance 
 
