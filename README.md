@@ -1,6 +1,6 @@
-### Welcome
+# Welcome
 
-### Personal projects
+## Personal projects
 
 •	[Human Pose Estimation](https://github.com/rorymcginnis1/HumanPoseEstimation): tool that allows real time tracking of an individual from a video/ camera and moves an avatar according to those movements
 
@@ -14,17 +14,17 @@
 
 • [Sentiment Analysis](https://github.com/rorymcginnis1/Sentiment-Analysis): Sentiment analysis on tweets using an MLP to determine if the tweets are positive, negative, irrelivent or neautral with respectable accuracies
 
-### Education
+## Education
 
 I graduated from San Francisco State in December 2023, majoring in Computer Science and minoring in mathematics
 
-### Personal Website
+## Personal Website
 
 You can find my personal website at [rorymcginnis1.github.io](https://rorymcginnis1.github.io)
 
-### Work Experience
+## Work Experience
 
-## Artificial Intelligence Research Assistant 
+### Artificial Intelligence Research Assistant 
 
 •	Established a streamlined pipeline to assess the efficacy of five distinct AI models, namely AlexNet, MobileNet, MnasNet, ShuffleNet, and SqueezeNet 
 
@@ -32,7 +32,7 @@ You can find my personal website at [rorymcginnis1.github.io](https://rorymcginn
 
 •	Leveraged D3.js to craft compelling visualizations, effectively communicating the accuracy outcomes of each model and facilitating nuanced comparisons of their performance metrics
 
-## Random Forest Classifier Research Assistant
+### Random Forest Classifier Research Assistant
 
 •	Conducted an in-depth evaluation of model performance utilizing out-of-bag accuracy, confusion matrix analysis, and visualization of feature importance 
 
@@ -41,12 +41,12 @@ You can find my personal website at [rorymcginnis1.github.io](https://rorymcginn
 •	Generated exemplary research outcomes that garnered recognition from Professor Petkovic, leading to the integration of the work into the curriculum of his class 
 
 
-### Contact me
+## Contact me
 
 You can reach me at rorymcginnis1@gmail.com
 
-### Hobbies
+## Hobbies
 
-In my free time I enjoy playing/watching basketball, taking my dog on walks through the city, and rock climbing
+In my free time I enjoy playing/watching basketball, taking my dog on walks through the city, rock climbing, and competing in recreational chess tournaments
 
 
