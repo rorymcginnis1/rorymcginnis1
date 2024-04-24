@@ -8,11 +8,9 @@
 
 •	[Randomized compliment](https://github.com/rorymcginnis1/Hourly-Random-Compliment): [Web app](https://rorymcginnis1.github.io/Hourly-Random-Compliment/) that randomizes a compliment for you on the hour every day
 
-• [Device Driver](https://github.com/rorymcginnis1/Device-Driver): A device Driver that includes open, release, write, iotcl command while using encryption and decryption
-
-• [Mini File System](https://github.com/rorymcginnis1/File-System-Project): Custom filesystem in C supporting commands like ls, cp, mv, md, rm, touch, cat, cp2l, cp2fs, cd, and pwd
-
 • [Sentiment Analysis](https://github.com/rorymcginnis1/Sentiment-Analysis): Sentiment analysis on tweets using an MLP to determine if the tweets are positive, negative, irrelivent or neautral with respectable accuracies
+
+• [To Do List](https://github.com/rorymcginnis1/todoList.git): A To Do list web application that uses Spring boot RESTful APIs and Java. Allows user to add delete or cross off tasks from a to do list.
 
 ## Education
 
