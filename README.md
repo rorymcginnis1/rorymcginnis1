@@ -12,6 +12,8 @@
 
 • [To Do List](https://github.com/rorymcginnis1/todoList.git): A To Do list web application that uses Spring boot RESTful APIs and Java. Allows user to add delete or cross off tasks from a to do list.
 
+• [Mini Chat Box](https://github.com/rorymcginnis1/chat-box.git): A chat box that is trained to recognize and interpret user input, enabling the chatbot to understand and respond appropriately to a variety of prompts
+
 ## Education
 
 I graduated from San Francisco State in December 2023, majoring in Computer Science and minoring in mathematics
