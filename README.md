@@ -8,7 +8,7 @@
 
 •	[Randomized compliment](https://github.com/rorymcginnis1/Hourly-Random-Compliment): [Web app](https://rorymcginnis1.github.io/Hourly-Random-Compliment/) that randomizes a compliment for you on the hour every day
 
-• [Sentiment Analysis](https://github.com/rorymcginnis1/Sentiment-Analysis): Sentiment analysis on tweets using an MLP to determine if the tweets are positive, negative, irrelivent or neautral with respectable accuracies
+• [Sentiment Analysis](https://github.com/rorymcginnis1/Sentiment-Analysis): Sentiment analysis on tweets using an MLP to determine if the tweets are positive, negative, irrelevent or neutral with respectable accuracies
 
 • [To Do List](https://github.com/rorymcginnis1/todoList.git): A To Do list web application that uses Spring boot RESTful APIs and Java. Allows user to add delete or cross off tasks from a to do list.
 
